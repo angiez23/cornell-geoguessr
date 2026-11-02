@@ -1,4 +1,4 @@
-# snarly-hackers
+# cornell-geoguessr
 Clarice Shen cs2582
 
 Elizabeth Pfauth ep575
